@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="appcompat-v7-25.3.1">
+    <CLASSES>
+      <root url="file://F:/Qt/QtAndroid/android-sdk-windows/.android/build-cache/dafe49d06b97adaf591fa5d20a9f9af5ecb70655/output/res" />
+      <root url="jar://F:/Qt/QtAndroid/android-sdk-windows/.android/build-cache/dafe49d06b97adaf591fa5d20a9f9af5ecb70655/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Qt/QtAndroid/android-sdk-windows/extras/android/m2repository/com/android/support/appcompat-v7/25.3.1/appcompat-v7-25.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

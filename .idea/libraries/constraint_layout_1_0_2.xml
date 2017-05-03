@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="constraint-layout-1.0.2">
+    <CLASSES>
+      <root url="jar://F:/Qt/QtAndroid/android-sdk-windows/.android/build-cache/39d4d9005020084b218a5879ea682e2deebc6209/output/jars/classes.jar!/" />
+      <root url="file://F:/Qt/QtAndroid/android-sdk-windows/.android/build-cache/39d4d9005020084b218a5879ea682e2deebc6209/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

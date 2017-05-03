@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="support-v4-25.3.1">
+    <CLASSES>
+      <root url="file://F:/Qt/QtAndroid/android-sdk-windows/.android/build-cache/56ebfffeec917813792baa21a3d0a9666b5c6cd0/output/res" />
+      <root url="jar://F:/Qt/QtAndroid/android-sdk-windows/.android/build-cache/56ebfffeec917813792baa21a3d0a9666b5c6cd0/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
